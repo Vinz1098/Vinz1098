@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinz1098
-- 👀 I’m interested in Data analytics
+- 👀 I’m a Data analyst
 - 🌱 I’m currently learning SQl, Python
 - 📫 How to reach me by Linkedin
 - ⚡ Fun fact: ...
